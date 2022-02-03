@@ -13,3 +13,4 @@
 
 # Summary
 * The analysis was performed using API's to extract the current weather for over 700 locations with only 184 hotels meeting the predetermined temperature criteria.
+* 5 hotels were chosen in Mexico for the final itinerary.
