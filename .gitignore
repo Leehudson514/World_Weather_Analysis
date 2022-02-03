@@ -1,6 +1,7 @@
 # Adding config.py file.
 config.py
 API_practice.ipynb
+module_weather_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
